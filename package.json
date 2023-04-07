@@ -1,0 +1,28 @@
+{
+  "name": "funny-random-phrases",
+  "version": "1.0.0",
+  "description": "Random commit messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoLerma/funny-random-phrases.git"
+  },
+
+  "keywords": [],
+  "author": "Diego Lerma <dieglt_98@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoLerma/funny-random-phrases.git/issues"
+  },
+  "homepage": "https://github.com/DiegoLerma/funny-random-phrases.git#readme",
+  "bin": {
+    "funny-random-phrases": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
