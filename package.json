@@ -1,6 +1,6 @@
 {
   "name": "funny-random-phrases",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random commit messages",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/DiegoLerma/funny-random-phrases.git"
   },
-
   "keywords": [],
   "author": "Diego Lerma <dieglt_98@hotmail.com>",
   "license": "MIT",
